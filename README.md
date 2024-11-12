@@ -1,29 +1,108 @@
-<h1 align="center">Hi 👋, I'm Abdul Masood</h1>
-<h3 align="center">Security Analyst | Founder & CEO of Warlock Security</h3>
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=warlocsecurity&label=Profile%20views&color=0e75b6&style=flat" alt="warlocsecurity" /> </p>
+<a href="https://discord.gg/NeGvnmuB/">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/discord.svg?raw=true" />
+</a>
+<a href="https://instagram.com/hackerspider1">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/instagram.svg?raw=true" />
+</a>
+<a href="https://twitter.com/hackerspider1">
+  <img align="left" alt="Shubham Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg?raw=true" />
+</a>
+<a href="https://www.linkedin.com/in/hackerspider1/">
+  <img align="left" alt="Shubham LinkedIN" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" />
+</a>
+<a href="https://www.facebook.com/hackerspider1/">
+  <img align="left" alt="Shubham Facebook" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/facebook.svg?raw=true" />
+</a>
+<a href="https://open.spotify.com/playlist/4VFPUarxug3APc05glP2ou?si=GDLtHkdyRnuaEHALKkdi5w">
+  <img align="left" alt="Shubham Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=warlocsecurity" alt="warlocsecurity" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/wsabdulmasood" target="blank"><img src="https://img.shields.io/twitter/follow/wsabdulmasood?logo=twitter&style=for-the-badge" alt="wsabdulmasood" /></a> </p>
+![](https://visitor-badge.glitch.me/badge?page_id=hackerspider1)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wsabdulmasood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wsabdulmasood" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/warlocksecurity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warlocksecurity" height="30" width="40" /></a>
-<a href="https://fb.com/warlocksecurit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="warlocksecurit" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/warlock_security_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/warlock_security_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/warlocksecurity101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="warlocksecurity101" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/warlocksecurit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="warlocksecurit" height="30" width="40" /></a>
-<a href="https://discord.gg/ryEVFSwNj9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ryEVFSwNj9" height="30" width="40" /></a>
+My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living in Delhi NCR and currently working at Delitte USI.
+
+<img align="right" alt="GIF" src="https://github.com/hackerspider1/hackerspider1/blob/main/code.gif?raw=true" width="500" height="320" />
+
+### About Me:
+
+- 🏦 I'm a Penetration Tester working for Deloitte USI <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Love travelling 🇺🇦 🇸🇦 🇸🇬 🇲🇾 🇮🇩 🇴🇲 🇮🇳 🇶🇦 🇹🇭 🇰🇭 🇻🇳 🇺🇸 🇲🇽 
+- 📝 I write my findings [here](https://guptashubham.com/) and [Echopwn](https://echopwn.com)
+- 🧳  I am currently Planning **My Next Trip**
+- 📱  Talk to me about Travel, Hacking (both of these are not any kind of insect or animals), silicon valley & Mr. Robot 🎥 
+- 👯 We can connect to smoke pot 🚬 
+- ⚡ Fun fact: I'm lonely but I like to be lonely still I feel lonely o_O
+
+
+<h3 align="center"> if you want to buy a beer for me 🥺👉👈
+
+<p></P>
+<a href="https://www.buymeacoffee.com/hackerspider1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=&slug=hackerspider1&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+</h3>
+
+<h2 align="center"> 🔧 Skills & Tools: </h2>
+
+
+<p align="center">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/Web-PT-3178C6?&style=for-the-badge&logo=web&logoColor=white">
+  </a>
+  <a href="https://golang.org/">
+    <img src="https://img.shields.io/badge/PT-00ADD8?&style=for-the-badge&logo=android&logoColor=white">
+  </a>
+  <a href="https://www.rust-lang.org/">
+    <img src="https://img.shields.io/badge/PT-000000?&style=for-the-badge&logo=ios&logoColor=white">
+  </a>
+  <a href="https://www.cplusplus.com/doc/tutorial/">
+    <img src="https://img.shields.io/badge/burp Suite-00599C?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+  <a href="https://html.com/">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/Dirsearch-1572B6?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/Subfinder-httpx-323330?style=for-the-badge&logo=go&logoColor=F7DF1E">
+  </a>
+  <br>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/Naabu-nuclei-339933?style=for-the-badge&logo=go&logoColor=white">
+  </a>
+  <a href="https://www.json.org/json-en.html">
+    <img src="https://img.shields.io/badge/Assetfinder-Amass-000000?style=for-the-badge&logo=go&logoColor=white">
+  </a>
+  <a href="https://www.sublimetext.com/">
+    <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+  <a href="https://www.google.com/intl/en_in/chrome/">
+    <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/github-F05032?&style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <br>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/Metasploit-61DAFB?&style=for-the-badge&logo=Meta&logoColor=121212">
+  </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/Sqlmap-003B57?&style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warlocsecurity&show_icons=true&locale=en&layout=compact" alt="warlocsecurity" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=warlocsecurity&show_icons=true&locale=en" alt="warlocsecurity" /></p>
+<div align="center">
+	<a href="https://www.guptashubham.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=hackerspider1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+	</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warlocsecurity&" alt="warlocsecurity" /></p>
-
+---
